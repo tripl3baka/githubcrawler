@@ -1,0 +1,7 @@
+server:
+  port: 2137
+logging:
+  level:
+    org.springframework.security: DEBUG
+github:
+  token: "<TOKEN>"
